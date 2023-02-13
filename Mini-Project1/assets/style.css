@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(83, 83, 83);
+}    
+    
+
+header{
+    font-size: 65px;
+    text-align: center;
+    color: rgb(209, 15, 223);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+main p{
+    color: white;
+    text-align: center;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+
+
